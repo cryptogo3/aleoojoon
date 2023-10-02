@@ -27,7 +27,7 @@ cd snarkOS
 cargo install --path .
 
 
-توییت است
+توییت
 ------------------------------------------------------------------
 
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndumr
